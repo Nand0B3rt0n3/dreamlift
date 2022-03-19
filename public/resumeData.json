@@ -1,0 +1,146 @@
+{
+  "main": {
+    "name": "Alejandro Garrido",
+    "occupation": "Pilot",
+    "description": "We fly to your dreams, we take you to your destination",
+    "image": "profilepic.jpg",
+    "bio": "We have been taking hundreds of people to their destinations for years, first in private logistics and commercial airlines. Now we fly to your dreams.",
+    "contHere actmessage": "Write us without hesitation, maybe your next destination awaits you behind this message",
+    "email": "pilotalejadroloquese@gmail.com",
+    "phone": "555-555-5555",
+    "address": {
+      "street": "Plaza de la independecia catalana",
+      "city": "Mayorca",
+      "state": "España",
+      "zip": "11151"
+    },
+    "website": "https://github.com/Nand0B3rt0n3",
+    "resumedownload": "https://github.com/Nand0B3rt0n3",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://github.com/Nand0B3rt0n3",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://github.com/Nand0B3rt0n3",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://github.com/Nand0B3rt0n3",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://github.com/Nand0B3rt0n3",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Nand0B3rt0n3",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "THE BEST SERVICES FOR THE BEST CUSTOMERS",
+    "education": [
+      {
+        "school": "PRIVATE SERVICE",
+        "degree": "Masters in Beer tasting",
+        "graduated": "April 2007",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school": "TOURISTIC ROUTES",
+        "degree": "What did you study 101",
+        "graduated": "March 2003",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work": [
+      {
+        "company": "RESORT SERVICES",
+        "title": "Senior UX God ",
+        "years": "March 2010 - Present",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company": "PRIVATE AIR TOURS",
+        "title": "Junior bug fixer",
+        "years": "March 2007 - February 2010",
+        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills": [
+      {
+        "name": "TAILANDIA",
+        "level": "60%"
+      },
+      {
+        "name": "8====D",
+        "level": "100%"
+      },
+      {
+        "name": "BORA BORA",
+        "level": "70%"
+      },
+      {
+        "name": "HELLAM, PENSILVANIA",
+        "level": "30%"
+      },
+      {
+        "name": "BLUE LAGUNE, ISLANDIA"
+      },
+      {
+        "name": "ALBACETE"
+      },
+      {
+        "name": "CASARRUBIOS"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Indonesia",
+        "category": "Hola macho aqui ponemos la info de los destinos",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://github.com/Nand0B3rt0n3"
+      },
+      {
+        "title": "Bora Bora",
+        "category": "lo mismo que arriba",
+        "image": "fury-fighting-gear.jpg",
+        "url": "https://github.com/Nand0B3rt0n3"
+      },
+      {
+        "title": "DESTINOS",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "original-thai-food.jpg",
+        "url": "https://github.com/Nand0B3rt0n3"
+      },
+      
+      {
+        "title": "PAQUETES",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "smirkspace.jpg",
+        "url": "https://github.com/Nand0B3rt0n3"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "We fly to your dreams, we take you to your destination.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "You put the destiny we the wings",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
