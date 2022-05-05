@@ -51,27 +51,27 @@
         "school": "PRIVATE SERVICE",
         "degree": "Masters in Beer tasting",
         "graduated": "April 2007",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description": ""
       },
       {
         "school": "TOURISTIC ROUTES",
-        "degree": "What did you study 101",
+        "degree": "rutas turisticas",
         "graduated": "March 2003",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description": ""
       }
     ],
     "work": [
       {
         "company": "RESORT SERVICES",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "title": "servicios a resorts",
+        "years": "",
+        "description": "the best flys"
       },
       {
         "company": "PRIVATE AIR TOURS",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "title": "the best destinations",
+        "years": "",
+        "description": "the best flys"
       }
     ],
     "skills": [
@@ -80,7 +80,7 @@
         "level": "60%"
       },
       {
-        "name": "8====D",
+        "name": "IBIZA",
         "level": "100%"
       },
       {
@@ -118,7 +118,7 @@
       },
       {
         "title": "DESTINOS",
-        "category": "Website I built for a restaurant I like in Thailand",
+        "category": "lo mismo que arriba",
         "image": "original-thai-food.jpg",
         "url": "https://github.com/Nand0B3rt0n3"
       },
