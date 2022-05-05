@@ -4,15 +4,22 @@
   "private": true,
   "dependencies": {
     "jquery": "^3.2.1",
-    "react": "^16.2.0",
+    "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "react-ga": "^2.7.0",
-    "react-scripts": "1.0.17"
+    "react-scripts": "^5.0.1",
+    "scripts": "^0.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
