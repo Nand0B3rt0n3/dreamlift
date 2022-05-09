@@ -1,18 +1,18 @@
 {
   "main": {
-    "name": "Alejandro Garrido",
-    "occupation": "Pilot",
-    "description": "We fly to your dreams, we take you to your destination",
+    "name": "Fernando Noguera",
+    "occupation": "Web/Android Developer",
+    "description": "",
     "image": "profilepic.jpg",
     "bio": "We have been taking hundreds of people to their destinations for years, first in private logistics and commercial airlines. Now we fly to your dreams.",
-    "contHere actmessage": "Write us without hesitation, maybe your next destination awaits you behind this message",
-    "email": "pilotalejadroloquese@gmail.com",
-    "phone": "555-555-5555",
+    "contHere actmessage": "Write me, awaits you behind this message",
+    "email": "nandobertone@hotmail.es",
+    "phone": "678451446",
     "address": {
-      "street": "Plaza de la independecia catalana",
-      "city": "Mayorca",
-      "state": "España",
-      "zip": "11151"
+      "street": "Eras Altas 21, 1ºA",
+      "city": "El Alamo",
+      "state": "MADRID - SPAIN",
+      "zip": "29070"
     },
     "website": "https://github.com/Nand0B3rt0n3",
     "resumedownload": "https://github.com/Nand0B3rt0n3",
@@ -45,87 +45,91 @@
     ]
   },
   "resume": {
-    "skillmessage": "THE BEST SERVICES FOR THE BEST CUSTOMERS",
+    "skillmessage": "CODING SKILLS",
     "education": [
       {
-        "school": "PRIVATE SERVICE",
-        "degree": "Masters in Beer tasting",
-        "graduated": "April 2007",
+        "school": "COLÓN ACADEMY",
+        "degree": "Java Certificate",
+        "graduated": "Dec-2021",
         "description": ""
       },
       {
-        "school": "TOURISTIC ROUTES",
-        "degree": "rutas turisticas",
-        "graduated": "March 2003",
+        "school": "COLÓN ACADEMY",
+        "degree": "Ciber Security",
+        "graduated": "March 2022",
         "description": ""
       }
     ],
     "work": [
       {
-        "company": "RESORT SERVICES",
-        "title": "servicios a resorts",
-        "years": "",
-        "description": "the best flys"
+        "company": "Freelancer Developer",
+        "title": "Full-Stack",
+        "years": "6 years",
+        "description": "Private proyects from diferent clients. Personal web sites (ReactNative, JavaScript and Microservices for php, and apps for Android with Kotlin"
       },
       {
-        "company": "PRIVATE AIR TOURS",
-        "title": "the best destinations",
-        "years": "",
-        "description": "the best flys"
+        "company": "Honey-Well",
+        "title": "DevOps",
+        "years": "2 years",
+        "description": "Develop and coding graphics enviroments programs for remote controls in servers"
+        
       }
     ],
     "skills": [
       {
-        "name": "TAILANDIA",
+        "name": "HTML",
+        "level": "90%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+      {
+        "name": "Java",
+        "level": "50%"
+      },
+      {
+        "name": "JavaScript",
         "level": "60%"
       },
       {
-        "name": "IBIZA",
-        "level": "100%"
+        "name": "Kotlin",
+        "level":"70%"
       },
       {
-        "name": "BORA BORA",
-        "level": "70%"
+        "name": "MySQL",
+        "level":"50%"
       },
       {
-        "name": "HELLAM, PENSILVANIA",
-        "level": "30%"
-      },
-      {
-        "name": "BLUE LAGUNE, ISLANDIA"
-      },
-      {
-        "name": "ALBACETE"
-      },
-      {
-        "name": "CASARRUBIOS"
+        "name": "MONGO DB",
+        "level":"70%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Indonesia",
-        "category": "Hola macho aqui ponemos la info de los destinos",
+        "title": "App CRM",
+        "category": "Android - Kotlin",
         "image": "canadian-wanderlust.jpg",
         "url": "https://github.com/Nand0B3rt0n3"
       },
       {
-        "title": "Bora Bora",
-        "category": "lo mismo que arriba",
+        "title": "App based in Google Maps",
+        "category": "Android - Kotlin",
         "image": "fury-fighting-gear.jpg",
         "url": "https://github.com/Nand0B3rt0n3"
       },
       {
-        "title": "DESTINOS",
-        "category": "lo mismo que arriba",
+        "title": "Personal And Portfolio sites",
+        "category": "HTML, ReactNative, and more.",
         "image": "original-thai-food.jpg",
         "url": "https://github.com/Nand0B3rt0n3"
       },
       
       {
-        "title": "PAQUETES",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "title": "Business Sites",
+        "category": "React",
         "image": "smirkspace.jpg",
         "url": "https://github.com/Nand0B3rt0n3"
       }
@@ -134,12 +138,12 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "We fly to your dreams, we take you to your destination.",
-        "user": "Kareem Abdul Jabbar"
+        "text": "Si puedes imaginarlo se puede programar.",
+        "user": "F. Noguera"
       },
       {
-        "text": "You put the destiny we the wings",
-        "user": "Steve Wozniak... impersonator"
+        "text": "HTML no es un codigo por favor...",
+        "user": "F.Noguera"
       }
     ]
   }
