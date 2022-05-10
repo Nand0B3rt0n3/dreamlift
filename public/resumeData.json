@@ -2,17 +2,17 @@
   "main": {
     "name": "Fernando Noguera",
     "occupation": "Web/Android Developer",
-    "description": "freelancer developer with more than 10 years of experience in IT and UI",
+    "description": "developer with more than 10 years of experience in IT and UI",
     "image": "profilepic.jpg",
     "bio": "I started programming automation in Honeywell's collaborating CIC, generating interactive environments to control automation of all kinds. I was dedicated myself to web programming and advertising design until I was hired by GRUPOLONG SL as a graphic manager and netmaster for 2 years.Later I worked independently (freelance) as a webmaster and graphic designer working for different clients and pryects.Im currently working with KOTLIN, ASP.NET, MySQL, HTML5, JAVASCRIPT, XML, SOLIDITY, and many frameworks as ReactNative.",
     "contHere actmessage": "Write me, awaits you behind this message",
     "email": "nandobertone@hotmail.es",
-    "phone": "678451446",
+    "phone": "+34 678 45 14 46",
     "address": {
       "street": "Eras Altas 21, 1ºA",
       "city": "El Alamo",
       "state": "MADRID - SPAIN",
-      "zip": "29070"
+      "zip": ""
     },
     "website": "https://github.com/Nand0B3rt0n3",
     "resumedownload": "https://github.com/Nand0B3rt0n3",
@@ -51,13 +51,55 @@
         "school": "COLÓN ACADEMY",
         "degree": "Java Certificate",
         "graduated": "Dec-2021",
-        "description": ""
+        "description": "150h - Apache NetBeans and Eclipse IDE"
       },
       {
         "school": "COLÓN ACADEMY",
-        "degree": "Ciber Security",
+        "degree": "Cibersecurity",
         "graduated": "March 2022",
-        "description": ""
+        "description": " 150h - Encription, Firewall, Malware, Privacy and information´s security."
+      },
+      {
+        "school": "Google",
+        "degree": "Cibersecurity",
+        "graduated": "Dec-2021",
+        "description": "CERTIFICATE ID: ZVL PFW P4V"
+      },
+      {
+        "school": "Google",
+        "degree": "eCommerce",
+        "graduated": "Dec-2021",
+        "description": "CERTIFICATE ID: UB2 FQY HSU"
+      },
+      {
+        "school": "Google",
+        "degree": "Apps Developement",
+        "graduated": "Aug-2021",
+        "description": "CERTIFICATE ID: TEV MKY ZHB"
+      },
+      {
+        "school": "Google",
+        "degree": "Campaign Manager Certification",
+        "graduated": "Feb-2022",
+        "description": "CERTIFICATE ID: 107039700 registered in https://skillshop.exceedlms.com/student/award/Tni9td1hXDFDBYQ4QUpSQq5E"
+      },
+      {
+        "school": "Google",
+        "degree": "Web Developement",
+        "graduated": "Aug-2021",
+        "description": "CERTIFICATE ID: 39U SXS XDF"
+      },
+      {
+        "school": "LinkedIn",
+        "degree": "Android Studio Essential Training 2020",
+        "graduated": "May-2022",
+        "description": "CERTIFICATE LINK: https://www.linkedin.com/learning/certificates/9dea6a82f855a02ed46ce56a4338d22b5101c756efa2392b473144f5b030e6a2"
+      },
+      {
+        "school": "Centro de Formacion SYSTEM",
+        "degree": " Web programming and advertising design",
+        "graduated": "Jun-2005",
+        "description": "HTML, CSS, flash design, DB with MySQL and e-commerce."
       }
     ],
     "work": [
@@ -68,8 +110,21 @@
         "description": "Private proyects from diferent clients. Personal web sites (ReactNative, JavaScript and Microservices for php, and apps for Android with Kotlin"
       },
       {
+        "company": "Group Long Inc.",
+        "title": "Web Developer",
+        "years": "3 years",
+        "description": "Web Design(Flash, HTML, CSS, JavaScript), Graphic Design, MySQL and MONGO Databases. Design and management of advertising campaigns, business web environment management and technical services."
+      },
+      {
         "company": "Honey-Well",
-        "title": "DevOps",
+        "title": "Developer",
+        "years": "2 years",
+        "description": "Creation, design and programming of interactive environments for controlling network devices."
+        
+      },
+      {
+        "company": "CIC - Iberic Company of Control",
+        "title": "Developer",
         "years": "2 years",
         "description": "Develop and coding graphics enviroments programs for remote controls in servers"
         
@@ -103,7 +158,43 @@
       {
         "name": "MONGO DB",
         "level":"70%"
-      }
+      },
+      {
+        "name": " RESTful API",
+        "level":"75%"
+      },
+      {
+        "name": "Android SDK",
+        "level":"80%"
+      },
+      {
+        "name": "Versions Control Git, Jira or GitKranken",
+        "level": "80%"
+      },
+      {
+        "name": "Model View View-Model",
+        "level": "100%"
+      },
+      {
+        "name": "SOLID",
+        "level": "75%"
+      },
+      {
+        "name": "Exchange ActiveSync",
+        "level": "50%"
+      },
+      {
+        "name": "Developer Operations (DevOps)",      
+        "level": "80%"
+      },
+      {
+        "name": "AGILE",
+        "level": "80%"
+      },
+      {
+        "name": "TESTING",
+        "level": "20%"
+      }    
     ]
   },
   "portfolio": {
@@ -111,8 +202,8 @@
       {
         "title": "App CRM",
         "category": "Android - Kotlin",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://github.com/Nand0B3rt0n3"
+        "image": "appcrm.png",
+        "url": "https://github.com/Nand0B3rt0n3/Kotlin-App/"
       },
       {
         "title": "App based in Google Maps",
@@ -123,15 +214,15 @@
       {
         "title": "Personal And Portfolio sites",
         "category": "HTML, ReactNative, and more.",
-        "image": "original-thai-food.jpg",
-        "url": "https://github.com/Nand0B3rt0n3"
+        "image": "portfolioreact.png",
+        "url": "https://github.com/Nand0B3rt0n3/dreamlift/"
       },
       
       {
-        "title": "Business Sites",
+        "title": "Business Microservices",
         "category": "React",
-        "image": "smirkspace.jpg",
-        "url": "https://github.com/Nand0B3rt0n3"
+        "image": "gestdrone.png",
+        "url": "https://github.com/Nand0B3rt0n3/dronegest"
       }
     ]
   },
