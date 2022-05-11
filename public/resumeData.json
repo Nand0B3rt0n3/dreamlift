@@ -227,11 +227,11 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Si puedes imaginarlo se puede programar.",
-        "user": "F. Noguera"
+        "text": "If you can imagine it, you can code it.",
+        "user": 
       },
       {
-        "text": "HTML no es un codigo por favor...",
+        "text": "Every time sameone needs an app or a digitalization",
         "user": "F.Noguera"
       }
     ]
