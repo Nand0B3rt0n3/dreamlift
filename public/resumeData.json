@@ -6,16 +6,14 @@
     "image": "profilepic.jpg",
     "bio": "I started programming automation in Honeywell's collaborating CIC, generating interactive environments to control automation of all kinds. I was dedicated myself to web programming and advertising design until I was hired by GRUPOLONG SL as a graphic manager and netmaster for 2 years.Later I worked independently (freelance) as a webmaster and graphic designer working for different clients and pryects.Im currently working with KOTLIN, ASP.NET, MySQL, HTML5, JAVASCRIPT, XML, SOLIDITY, and many frameworks as ReactNative.",
     "contHere actmessage": "Write me, awaits you behind this message",
-    "email": "nandobertone@hotmail.es",
+    "email": "webmaster@nandobertone.es",
     "phone": "+34 678 45 14 46",
     "address": {
-      "street": "Eras Altas 21, 1ºA",
-      "city": "El Alamo",
       "state": "MADRID - SPAIN",
       "zip": ""
     },
-    "website": "https://github.com/Nand0B3rt0n3",
-    "resumedownload": "https://github.com/Nand0B3rt0n3",
+    "website": "http://nandobertone.es/index.html",
+    "resumedownload": "http://nandobertone.es/downloads/Profile.pdf",
     "social": [
       {
         "name": "facebook",
@@ -206,7 +204,7 @@
         "url": "https://github.com/Nand0B3rt0n3/Kotlin-App/"
       },
       {
-        "title": "App based in Google Maps",
+        "title": "App based in Google Maps (Private Proyect)",
         "category": "Android - Kotlin",
         "image": "fury-fighting-gear.jpg",
         "url": "https://github.com/Nand0B3rt0n3"
