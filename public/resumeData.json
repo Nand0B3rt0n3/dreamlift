@@ -166,7 +166,7 @@
         "level":"80%"
       },
       {
-        "name": "Versions Control Git, Jira or GitKranken",
+        "name": "Versions Control Git, Jira or GitKraken",
         "level": "80%"
       },
       {
@@ -204,6 +204,12 @@
         "url": "https://github.com/Nand0B3rt0n3/Kotlin-App/"
       },
       {
+        "title": "Simple React site of Movies Information type Netflix",
+        "category": "HTML, ReactNative, and more.",
+        "image": "infomovies.png",
+        "url": "https://nandobertone.es/sites/movies/"
+      },
+      {
         "title": "App based in Google Maps (Private Proyect)",
         "category": "Android - Kotlin",
         "image": "fury-fighting-gear.jpg",
@@ -215,7 +221,6 @@
         "image": "portfolioreact.png",
         "url": "https://github.com/Nand0B3rt0n3/dreamlift/"
       },
-      
       {
         "title": "Business Microservices",
         "category": "React",
@@ -228,10 +233,10 @@
     "testimonials": [
       {
         "text": "If you can imagine it, you can code it.",
-        "user": 
+        "user": ""
       },
       {
-        "text": "Every time sameone needs an app or a digitalization",
+        "text": "We advance to a social and labor scenario of digital transformation without brakes",
         "user": "F.Noguera"
       }
     ]

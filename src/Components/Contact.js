@@ -92,13 +92,13 @@ class Contact extends Component {
                   <ul id="twitter">
                      <li>
                         <span>
-                        SERVICE OF MAIL UNAVAIBLE, SORRY TRY LATER
+                        SERVICE OF MAIL IS NOT AVAILABLE, SORRY TRY LATER
                         </span>
                         <b><a href="#">3 Days Ago</a></b>
                      </li>
                      <li>
                         <span>
-                        YOU CAN CONTACT TO ME DIRECTLY ON "nandobertone@hotmail.es"
+                        YOU CAN CONTACT TO ME DIRECTLY ON "webmaster@nandobertone.es"
                         </span>
                         <b><a href="#">3 Days Ago</a></b>
                      </li>
