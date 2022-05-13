@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-
+import logo from './logo.svg';
+import './Header.css'
 class Header extends Component {
   render() {
 
@@ -33,6 +34,9 @@ class Header extends Component {
       </nav>
 
       <div className="row banner">
+      <p>
+            <img src={logo} className="App-logo" alt="logo" />
+            </p>
          <div className="banner-text">
             <h1 className="responsive-headline">Nand0B3rt0n3 Dev</h1>
             <h3>Fernando Noguera, {description}.</h3>
@@ -40,6 +44,7 @@ class Header extends Component {
             <ul className="social">
                {networks}
             </ul>
+
          </div>
       </div>
 
