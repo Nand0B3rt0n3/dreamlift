@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './Header.css'
+import ukrania from './noalaguerra.png'
 class Header extends Component {
   render() {
 
@@ -44,7 +45,7 @@ class Header extends Component {
             <ul className="social">
                {networks}
             </ul>
-
+            <img src={ukrania} alt="NO A LA GUERRA" />
          </div>
       </div>
 
