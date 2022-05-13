@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
-import './Header.css'
-import ukrania from './noalaguerra.png'
+import './Header.css';
+import ukrania from './noalaguerra.png';
+
 class Header extends Component {
   render() {
 
@@ -36,11 +37,11 @@ class Header extends Component {
 
       <div className="row banner">
       <p>
-            <img src={logo} className="App-logo" alt="logo" />
+         <img src={logo} className="App-logo" alt="logo" />
             </p>
          <div className="banner-text">
-            <h1 className="responsive-headline">Nand0B3rt0n3 Dev</h1>
-            <h3>Fernando Noguera, {description}.</h3>
+            <h2 className="responsive-headline">Nand0B3rt0n3 Dev</h2>
+            <h4>Fernando Noguera, {description}.</h4>
             <hr />
             <ul className="social">
                {networks}
@@ -52,7 +53,6 @@ class Header extends Component {
       <p className="scrolldown">
          <a className="smoothscroll" href="#about"><i className="icon-down-circle"></i></a>
       </p>
-
    </header>
     );
   }
