@@ -1,13 +1,13 @@
 {
   "main": {
-    "name": "Fernando Noguera",
+    "name": "PentaPrism IT",
     "occupation": "Web/Android Developer",
-    "description": "developer with more than 10 years of experience in IT and UI",
+    "description": "es una empresa joven e innovadora de soluciones tecnológicas que busca transformar la manera en que las organizaciones enfrentan sus desafíos más complejos. Nos especializamos en proporcionar soluciones avanzadas de IT diseñadas para impulsar la eficiencia, mejorar la seguridad y facilitar el crecimiento. Con un enfoque en la adaptabilidad, la fiabilidad y el servicio al cliente, buscamos convertirnos en un socio tecnológico confiable para nuestros clientes.",
     "image": "profilepic.jpg",
-    "bio": "I started programming automation in Honeywell's collaborating CIC, generating interactive environments to control automation of all kinds. I was dedicated myself to web programming and advertising design until I was hired by GRUPOLONG SL as a graphic manager and netmaster for 2 years.Later I worked independently (freelance) as a webmaster and graphic designer working for different clients and pryects.Im currently working with KOTLIN, ASP.NET, MySQL, HTML5, JAVASCRIPT, XML, SOLIDITY, and many frameworks as ReactNative.",
+    "bio": "Saludos soy Fernando Noguera, CEO de PentaPrism IT. Nuestro equipo de expertos en tecnología ofrece un amplio rango de servicios, que incluyen consultoría IT, desarrollo de software, ciberseguridad y soluciones de inteligencia artificial. Nos esforzamos por mantenernos a la vanguardia de las tendencias tecnológicas para proporcionar las soluciones más actualizadas y efectivas a nuestros clientes. En PentaPrism IT, creemos en el poder de la tecnología para cambiar el mundo. Nos enorgullece ayudar a las empresas a desbloquear su potencial y a alcanzar sus objetivos a través de soluciones tecnológicas avanzadas y personalizadas. Ya sea que estés buscando mejorar tu infraestructura tecnológica existente o estés listo para embarcarte en una transformación digital completa, PentaPrism IT está aquí para ayudarte a cada paso del camino.",
     "contHere actmessage": "Write me, awaits you behind this message",
     "email": "webmaster@nandobertone.es",
-    "phone": "+34 678 45 14 46",
+    "phone": "+34 664 14 64 49",
     "address": {
     "state": "MADRID - SPAIN",
     "zip": ""
@@ -33,111 +33,46 @@
     ]
   },
   "resume": {
-    "skillmessage": "CODING SKILLS",
+    "skillmessage": "BY CODE",
     "education": [
       {
-        "school": "COLÓN ACADEMY",
-        "degree": "Java Certificate",
-        "graduated": "Dec-2021",
-        "description": "150h - Apache NetBeans and Eclipse IDE"
+        "degree": "SOFTWARE"},
+      {
+        "degree": "CIBERSEGURIDAD"
       },
       {
-        "school": "COLÓN ACADEMY",
-        "degree": "Cibersecurity",
-        "graduated": "March 2022",
-        "description": " 150h - Encription, Firewall, Malware, Privacy and information´s security."
+        "degree": "REDES"
       },
       {
-        "school": "Google",
-        "degree": "Cibersecurity",
-        "graduated": "Dec-2021",
-        "description": "CERTIFICATE ID: ZVL PFW P4V"
+        "degree": "DESARROLLO DE APPS MOVILES"
       },
       {
-        "school": "Google",
-        "degree": "eCommerce",
-        "graduated": "Dec-2021",
-        "description": "CERTIFICATE ID: UB2 FQY HSU"
+        "degree": "DESARROLLO WEB"
       },
       {
-        "school": "Google",
-        "degree": "Apps Developement",
-        "graduated": "Aug-2021",
-        "description": "CERTIFICATE ID: TEV MKY ZHB"
-      },
+        "degree": "BIG DATA"},
       {
-        "school": "Google",
-        "degree": "Campaign Manager Certification",
-        "graduated": "Feb-2022",
-        "description": "CERTIFICATE ID: 107039700 registered in https://skillshop.exceedlms.com/student/award/Tni9td1hXDFDBYQ4QUpSQq5E"
-      },
-      {
-        "school": "Google",
-        "degree": "Web Developement",
-        "graduated": "Aug-2021",
-        "description": "CERTIFICATE ID: 39U SXS XDF"
-      },
-      {
-        "school": "LinkedIn",
-        "degree": "Android Studio Essential Training 2020",
-        "graduated": "May-2022",
-        "description": "CERTIFICATE LINK: https://www.linkedin.com/learning/certificates/9dea6a82f855a02ed46ce56a4338d22b5101c756efa2392b473144f5b030e6a2"
-      },
-      {
-        "school": "Centro de Formacion SYSTEM",
-        "degree": " Web programming and advertising design",
-        "graduated": "Jun-2005",
-        "description": "HTML, CSS, flash design, DB with MySQL and e-commerce."
-      }
-    ],
+        "degree": "BLOCKCHAIN / CRYPTO"}
+      ],
     "work": [
       {
-        "company": "Freelancer Developer",
-        "title": "Full-Stack",
-        "years": "6 years",
-        "description": "Private proyects from diferent clients. Personal web sites (ReactNative, JavaScript and Microservices for php, and apps for Android with Kotlin"
-      },
-      {
-        "company": "Group Long Inc.",
-        "title": "Web Developer",
-        "years": "3 years",
-        "description": "Web Design(Flash, HTML, CSS, JavaScript), Graphic Design, MySQL and MONGO Databases. Design and management of advertising campaigns, business web environment management and technical services."
-      },
-      {
-        "company": "Honey-Well",
-        "title": "Developer",
-        "years": "2 years",
-        "description": "Creation, design and programming of interactive environments for controlling network devices."
-        
-      },
-      {
-        "company": "CIC - Iberic Company of Control",
-        "title": "Developer",
-        "years": "2 years",
-        "description": "Develop and coding graphics enviroments programs for remote controls in servers"
-        
-      }
-    ],
+        "description": "En PentaPrism IT, impulsamos la innovación digital. Vivimos en la era de la información, un mundo en constante evolución en el que la tecnología transforma la forma en que vivimos, trabajamos y nos comunicamos. En PentaPrism IT, entendemos la importancia de mantenerse al día con este ritmo acelerado de cambio. Por eso, nos dedicamos a ayudar a las organizaciones a navegar por el panorama tecnológico en constante evolución, ofreciendo soluciones de IT de vanguardia diseñadas para enfrentar los desafíos de hoy y anticipar los del mañana. Como proveedores de soluciones IT integrales, ofrecemos una amplia gama de servicios, desde consultoría y desarrollo de software hasta ciberseguridad y soluciones de inteligencia artificial. Nuestra misión es simple pero poderosa: ayudar a las empresas a aprovechar la tecnología para impulsar la eficiencia, mejorar la seguridad, y fomentar el crecimiento y la innovación. Nuestro enfoque se basa en la personalización y en la colaboración estrecha con nuestros clientes. Creemos que cada organización es única, con sus propios desafíos y objetivos. Por lo tanto, nuestras soluciones no son de talla única, sino que están diseñadas para adaptarse a las necesidades específicas de cada cliente. Pero nuestra labor va más allá de simplemente ofrecer servicios tecnológicos. Nos consideramos socios estratégicos en tu viaje digital. Nuestro equipo de expertos está comprometido a trabajar contigo para entender tu negocio, tus metas y tus desafíos, y a encontrar las soluciones tecnológicas que te permitan alcanzar tus objetivos. En PentaPrism IT, creemos en el poder transformador de la tecnología. Estamos emocionados de formar parte de tu viaje y estamos listos para ayudarte a explorar las infinitas posibilidades que la tecnología puede ofrecer."}
+      ],
     "skills": [
       {
-        "name": "HTML",
-        "level": "90%"
+        "name": "HTML"
       },
       {
-        "name": "CSS",
-        "level": "80%"
+        "name": "CSS"
       },
       {
-        "name": "Java",
-        "level": "50%"
+        "name": "Java"
       },
       {
-        "name": "JavaScript",
-        "level": "60%"
+        "name": "JavaScript"
       },
       {
-        "name": "Kotlin",
-        "level":"70%"
+        "name": "Kotlin"
       },
       {
         "name": "MySQL",

@@ -26,11 +26,11 @@ class Header extends Component {
 
          <ul id="nav" className="nav">
             <li className="current"><a className="smoothscroll" href="#home">Home</a></li>
-            <li><a className="smoothscroll" href="#about">About</a></li>
-	         <li><a className="smoothscroll" href="#resume">Resume</a></li>
-            <li><a className="smoothscroll" href="#portfolio">Portfolio</a></li>
-            <li><a className="smoothscroll" href="#testimonials">Coments</a></li>
-            <li><a className="smoothscroll" href="#contact">Contact</a></li>
+            <li><a className="smoothscroll" href="#about">Sobre Nosotros</a></li>
+	         <li><a className="smoothscroll" href="#resume">Servicios</a></li>
+            <li><a className="smoothscroll" href="#portfolio">Incubadora</a></li>
+            <li><a className="smoothscroll" href="#testimonials">Filosofia</a></li>
+            <li><a className="smoothscroll" href="#contact">Contacto</a></li>
          </ul>
 
       </nav>
@@ -40,8 +40,8 @@ class Header extends Component {
          <img src={logo} className="App-logo" alt="logo" />
             </p>
          <div className="banner-text">
-            <h2 className="responsive-headline">Nand0B3rt0n3 Dev</h2>
-            <h4>Fernando Noguera, {description}.</h4>
+            <h2 className="responsive-headline">PentaPrism IT</h2>
+            <h4>PentaPrism IT{description}.</h4>
             <hr />
             <ul className="social">
                {networks}
