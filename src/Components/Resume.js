@@ -4,6 +4,7 @@ class Resume extends Component {
   render() {
 
     if(this.props.data){
+      var htmlicon= "images/"+this.props.data.htmlicon;
       var skillmessage = this.props.data.skillmessage;
       var education = this.props.data.education.map(function(education){
         return <div key={education.school}><h3>{education.school}</h3>
@@ -45,25 +46,20 @@ class Resume extends Component {
          <div className="three columns header-col">
             <h1>NUESTRA LABOR</h1>
          </div>
-
          <div className="nine columns main-col">
           {work}
         </div>
     </div>
-
-
-
       <div className="row skill">
-
          <div className="three columns header-col">
             <h1>COMPETENCIAS TECNOLOGICAS</h1>
          </div>
-
+         <div className="three columns">
+            <img className="profile-pic"  src={htmlicon} alt="icons" />
+         </div>
          <div className="nine columns main-col">
-
             <p>{skillmessage}
             </p>
-
 				<div>
 				   <ul className="skills">
 					  {skills}
