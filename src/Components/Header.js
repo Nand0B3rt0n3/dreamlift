@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+import logo from './image_component/logo_empresa.png';
 import './Header.css';
-import ukrania from './noalaguerra.png';
+
 
 class Header extends Component {
   render() {
@@ -40,19 +40,18 @@ class Header extends Component {
          <img src={logo} className="App-logo" alt="logo" />
             </p>
          <div className="banner-text">
-            <h2 className="responsive-headline">PentaPrism IT</h2>
-            <h4>PentaPrism IT{description}.</h4>
+            <h4>Vanguard Code Labs{description}.</h4>
             <hr />
             <ul className="social">
                {networks}
             </ul>
-            <img src={ukrania} alt="NO A LA GUERRA" />
+              <p className="scrolldown">
+         <a className="smoothscroll" href="#about"><i className="icon-down-circle"></i></a>
+      </p>
          </div>
       </div>
 
-      <p className="scrolldown">
-         <a className="smoothscroll" href="#about"><i className="icon-down-circle"></i></a>
-      </p>
+    
    </header>
     );
   }

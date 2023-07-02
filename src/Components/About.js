@@ -23,7 +23,7 @@ class About extends Component {
             <img className="profile-pic"  src={profilepic} alt="Fernando Noguera" />
          </div>
          <div className="nine columns main-col">
-            <h2>Sobre PentaPrism IT</h2>
+            <h2>Vanguard Code Labs</h2>
             <p>{bio}</p>
             <div className="row">
                <div className="columns contact-details">

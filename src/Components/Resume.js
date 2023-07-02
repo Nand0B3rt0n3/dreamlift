@@ -5,6 +5,7 @@ class Resume extends Component {
 
     if(this.props.data){
       var htmlicon= "images/"+this.props.data.htmlicon;
+      var javaicon= "images/"+this.props.data.javaicon;
       var skillmessage = this.props.data.skillmessage;
       var education = this.props.data.education.map(function(education){
         return <div key={education.school}><h3>{education.school}</h3>
@@ -56,6 +57,8 @@ class Resume extends Component {
          </div>
          <div className="three columns">
             <img className="profile-pic"  src={htmlicon} alt="icons" />
+            <img className="profile-pic"  src={javaicon} alt="icons" />
+
          </div>
          <div className="nine columns main-col">
             <p>{skillmessage}

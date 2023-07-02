@@ -1,13 +1,13 @@
 {
   "main": {
 
-    "name": "PentaPrism IT",
+    "name": "Vanguard Code Labs",
     "occupation": "Web/Android Developer",
-    "description": "es una empresa joven e innovadora de soluciones tecnológicas que busca transformar la manera en que las organizaciones enfrentan sus desafíos más complejos. Nos especializamos en proporcionar soluciones avanzadas de IT diseñadas para impulsar la eficiencia, mejorar la seguridad y facilitar el crecimiento. Con un enfoque en la adaptabilidad, la fiabilidad y el servicio al cliente, buscamos convertirnos en un socio tecnológico confiable para nuestros clientes.",
+    "description": " es una empresa joven e innovadora de soluciones tecnológicas que busca transformar la manera en que las organizaciones enfrentan sus desafíos más complejos. Nos especializamos en proporcionar soluciones avanzadas de IT diseñadas para impulsar la eficiencia, mejorar la seguridad y facilitar el crecimiento. Con un enfoque en la adaptabilidad, la fiabilidad y el servicio al cliente, buscamos convertirnos en un socio tecnológico confiable para nuestros clientes.",
     "image": "profilepic.jpg",
-    "bio": "Saludos soy Fernando Noguera, CEO de PentaPrism IT. Nuestro equipo de expertos en tecnología ofrece un amplio rango de servicios, que incluyen consultoría IT, desarrollo de software, ciberseguridad y soluciones de inteligencia artificial. Nos esforzamos por mantenernos a la vanguardia de las tendencias tecnológicas para proporcionar las soluciones más actualizadas y efectivas a nuestros clientes. En PentaPrism IT, creemos en el poder de la tecnología para cambiar el mundo. Nos enorgullece ayudar a las empresas a desbloquear su potencial y a alcanzar sus objetivos a través de soluciones tecnológicas avanzadas y personalizadas. Ya sea que estés buscando mejorar tu infraestructura tecnológica existente o estés listo para embarcarte en una transformación digital completa, PentaPrism IT está aquí para ayudarte a cada paso del camino.",
+    "bio": "Saludos soy Fernando Noguera, CEO de Vanguard Code Labs. Nuestro equipo de expertos en tecnología ofrece un amplio rango de servicios, que incluyen consultoría IT, desarrollo de software, ciberseguridad y soluciones de inteligencia artificial. Nos esforzamos por mantenernos a la vanguardia de las tendencias tecnológicas para proporcionar las soluciones más actualizadas y efectivas a nuestros clientes. En PentaPrism IT, creemos en el poder de la tecnología para cambiar el mundo. Nos enorgullece ayudar a las empresas a desbloquear su potencial y a alcanzar sus objetivos a través de soluciones tecnológicas avanzadas y personalizadas. Ya sea que estés buscando mejorar tu infraestructura tecnológica existente o estés listo para embarcarte en una transformación digital completa, PentaPrism IT está aquí para ayudarte a cada paso del camino.",
     "contHere actmessage": "Write me, awaits you behind this message",
-    "email": "webmaster@nandobertone.es",
+    "email": "",
     "phone": "+34 664 14 64 49",
     "address": {
     "state": "MADRID - SPAIN",
@@ -57,9 +57,10 @@
       ],
     "work": [
       {
-        "description": "En PentaPrism IT, impulsamos la innovación digital. Vivimos en la era de la información, un mundo en constante evolución en el que la tecnología transforma la forma en que vivimos, trabajamos y nos comunicamos. En PentaPrism IT, entendemos la importancia de mantenerse al día con este ritmo acelerado de cambio. Por eso, nos dedicamos a ayudar a las organizaciones a navegar por el panorama tecnológico en constante evolución, ofreciendo soluciones de IT de vanguardia diseñadas para enfrentar los desafíos de hoy y anticipar los del mañana. Como proveedores de soluciones IT integrales, ofrecemos una amplia gama de servicios, desde consultoría y desarrollo de software hasta ciberseguridad y soluciones de inteligencia artificial. Nuestra misión es simple pero poderosa: ayudar a las empresas a aprovechar la tecnología para impulsar la eficiencia, mejorar la seguridad, y fomentar el crecimiento y la innovación. Nuestro enfoque se basa en la personalización y en la colaboración estrecha con nuestros clientes. Creemos que cada organización es única, con sus propios desafíos y objetivos. Por lo tanto, nuestras soluciones no son de talla única, sino que están diseñadas para adaptarse a las necesidades específicas de cada cliente. Pero nuestra labor va más allá de simplemente ofrecer servicios tecnológicos. Nos consideramos socios estratégicos en tu viaje digital. Nuestro equipo de expertos está comprometido a trabajar contigo para entender tu negocio, tus metas y tus desafíos, y a encontrar las soluciones tecnológicas que te permitan alcanzar tus objetivos. En PentaPrism IT, creemos en el poder transformador de la tecnología. Estamos emocionados de formar parte de tu viaje y estamos listos para ayudarte a explorar las infinitas posibilidades que la tecnología puede ofrecer."}
+        "description": "Vanguard Code Labs, impulsamos la innovación digital. Vivimos en la era de la información, un mundo en constante evolución en el que la tecnología transforma la forma en que vivimos, trabajamos y nos comunicamos. En PentaPrism IT, entendemos la importancia de mantenerse al día con este ritmo acelerado de cambio. Por eso, nos dedicamos a ayudar a las organizaciones a navegar por el panorama tecnológico en constante evolución, ofreciendo soluciones de IT de vanguardia diseñadas para enfrentar los desafíos de hoy y anticipar los del mañana. Como proveedores de soluciones IT integrales, ofrecemos una amplia gama de servicios, desde consultoría y desarrollo de software hasta ciberseguridad y soluciones de inteligencia artificial. Nuestra misión es simple pero poderosa: ayudar a las empresas a aprovechar la tecnología para impulsar la eficiencia, mejorar la seguridad, y fomentar el crecimiento y la innovación. Nuestro enfoque se basa en la personalización y en la colaboración estrecha con nuestros clientes. Creemos que cada organización es única, con sus propios desafíos y objetivos. Por lo tanto, nuestras soluciones no son de talla única, sino que están diseñadas para adaptarse a las necesidades específicas de cada cliente. Pero nuestra labor va más allá de simplemente ofrecer servicios tecnológicos. Nos consideramos socios estratégicos en tu viaje digital. Nuestro equipo de expertos está comprometido a trabajar contigo para entender tu negocio, tus metas y tus desafíos, y a encontrar las soluciones tecnológicas que te permitan alcanzar tus objetivos. En PentaPrism IT, creemos en el poder transformador de la tecnología. Estamos emocionados de formar parte de tu viaje y estamos listos para ayudarte a explorar las infinitas posibilidades que la tecnología puede ofrecer."}
       ],
       "htmlicon": "html_icon.png",
+      "javaicon": "java_icon.png",
     "skills":[
       
       {
@@ -165,7 +166,7 @@
       },
       {
         "text": "We advance to a social and labor scenario of digital transformation without brakes",
-        "user": "F.Noguera"
+        "user": "Vanguard Code Labs"
       }
     ]
   }

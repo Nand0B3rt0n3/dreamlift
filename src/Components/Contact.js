@@ -98,7 +98,7 @@ class Contact extends Component {
                      </li>
                      <li>
                         <span>
-                        YOU CAN CONTACT TO ME DIRECTLY ON "webmaster@nandobertone.es"
+                        YOU CAN CONTACT TO ME DIRECTLY ON "contact@vanguardcodelabs.com"
                         </span>
                         <b><a href="#">3 Days Ago</a></b>
                      </li>
