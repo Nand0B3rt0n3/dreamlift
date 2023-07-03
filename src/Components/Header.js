@@ -25,12 +25,12 @@ class Header extends Component {
 	      <a className="mobile-btn" href="#home" title="Hide navigation">Hide navigation</a>
 
          <ul id="nav" className="nav">
-            <li className="current"><a className="smoothscroll" href="#home">Home</a></li>
-            <li><a className="smoothscroll" href="#about">Sobre Nosotros</a></li>
-	         <li><a className="smoothscroll" href="#resume">Servicios</a></li>
-            <li><a className="smoothscroll" href="#portfolio">Incubadora</a></li>
-            <li><a className="smoothscroll" href="#testimonials">Filosofia</a></li>
-            <li><a className="smoothscroll" href="#contact">Contacto</a></li>
+            <li className="current"><a className="smoothscroll" href="#home">HOME</a></li>
+            <li><a className="smoothscroll" href="#about">VANGUARD CODE LABS</a></li>
+	         <li><a className="smoothscroll" href="#resume">CONSULTORIA IT</a></li>
+            <li><a className="smoothscroll" href="#portfolio">ESCUELA DIGITAL</a></li>
+            <li><a className="smoothscroll" href="#testimonials">FILOSOFIA</a></li>
+            <li><a className="smoothscroll" href="#contact">CONTACTO</a></li>
          </ul>
 
       </nav>
@@ -40,7 +40,6 @@ class Header extends Component {
          <img src={logo} className="App-logo" alt="logo" />
             </p>
          <div className="banner-text">
-            <h4>Vanguard Code Labs{description}.</h4>
             <hr />
             <ul className="social">
                {networks}
