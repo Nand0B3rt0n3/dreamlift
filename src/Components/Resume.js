@@ -29,7 +29,7 @@ class Resume extends Component {
 
       <div className="row education">
          <div className="three columns header-col">
-            <h1>SERVICIOS</h1>
+            <h1>CONSULTORIA IT</h1>
          </div>
 
          <div className="nine columns main-col">
@@ -45,7 +45,7 @@ class Resume extends Component {
       <div className="row work">
 
          <div className="three columns header-col">
-            <h1>NUESTRA LABOR</h1>
+            <h1>DIGITALIZACION DE EMPRESAS</h1>
          </div>
          <div className="nine columns main-col">
           {work}
@@ -53,7 +53,7 @@ class Resume extends Component {
     </div>
       <div className="row skill">
          <div className="three columns header-col">
-            <h1>COMPETENCIAS TECNOLOGICAS</h1>
+            <h1>COMPROMETIDOS CON EL AVANCE TECNOLOGICO</h1>
          </div>
          <div className="three columns">
             <img className="profile-pic"  src={htmlicon} alt="icons" />

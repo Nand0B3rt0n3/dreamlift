@@ -40,7 +40,7 @@ class Contact extends Component {
 					<fieldset>
 
                   <div>
-						   <label htmlFor="contactName">Name <span className="required">*</span></label>
+						   <label htmlFor="contactName">Nombre <span className="required">*</span></label>
 						   <input type="text" defaultValue="" size="35" id="contactName" name="contactName" onChange={this.handleChange}/>
                   </div>
 
@@ -50,12 +50,12 @@ class Contact extends Component {
                   </div>
 
                   <div>
-						   <label htmlFor="contactSubject">Subject</label>
+						   <label htmlFor="contactSubject">Asunto </label>
 						   <input type="text" defaultValue="" size="35" id="contactSubject" name="contactSubject" onChange={this.handleChange}/>
                   </div>
 
                   <div>
-                     <label htmlFor="contactMessage">Message <span className="required">*</span></label>
+                     <label htmlFor="contactMessage">Mensage <span className="required">*</span></label>
                      <textarea cols="50" rows="15" id="contactMessage" name="contactMessage"></textarea>
                   </div>
 
@@ -68,9 +68,9 @@ class Contact extends Component {
 					</fieldset>
 				   </form>
 
-           <div id="message-warning"> Error boy</div>
+           <div id="message-warning"> Something went wrong</div>
 				   <div id="message-success">
-                  <i className="fa fa-check"></i>Your message was sent, thank you!<br />
+                  <i className="fa fa-check"></i>Su mensage fue enviado con exito!<br />
 				   </div>
            </div>
 
@@ -78,7 +78,7 @@ class Contact extends Component {
             <aside className="four columns footer-widgets">
                <div className="widget widget_contact">
 
-					   <h4>Address and Phone</h4>
+					   <h4>Direccion y Telefono</h4>
 					   <p className="address">
 						   {name}<br />
 						   {street} <br />
@@ -88,19 +88,19 @@ class Contact extends Component {
 				   </div>
 
                <div className="widget widget_tweets">
-                  <h4 className="widget-title">Comunications</h4>
+                  <h4 className="widget-title">Avisos</h4>
                   <ul id="twitter">
                      <li>
                         <span>
-                        SERVICE OF MAIL IS NOT AVAILABLE, SORRY TRY LATER
+                        El Servicio de correo no esta dispconible, disculpe las molestias.
                         </span>
                         <b><a href="#">3 Days Ago</a></b>
                      </li>
                      <li>
                         <span>
-                        YOU CAN CONTACT TO ME DIRECTLY ON "contact@vanguardcodelabs.com"
+                        PUEDES CONTACTARNOS DIRECTAMENTE EN "contact@vanguardcodelabs.com"
                         </span>
-                        <b><a href="#">3 Days Ago</a></b>
+                        <b><a href="#">1d</a></b>
                      </li>
                   </ul>
 		         </div>
